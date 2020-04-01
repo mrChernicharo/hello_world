@@ -1,7 +1,5 @@
 # hello_world
 
-
-
 Hello world! My name is Felipe, but you can call me Chern, or Cherny
 
 I'm a 32 year old Brazillian Dev and Musician. I love to study and I'm allways up to learn something new
