@@ -1,5 +1,9 @@
 # hello_world
 
-My name is Felipe Chernicharo, I'm a musician from Brazil and I've been studying programming skills since April 2019.
 
-Never was particularly interesseted in technology until one day I realized that learning how machines and computers work might be a way to reamin useful in our future society. 
+
+Hello world! My name is Felipe, but you can call me Chern, or Cherny
+
+I'm a Brazillian Dev and Musician. I love to study and I'm allways up to learn something new
+
+The technologies I've been studying the most lately are NodeJS, ReactJS and React Native but I have a nice Python and PHP background as well
